@@ -14,7 +14,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
-public class Solution_8_Test {
+public class 2022112831_8_Test {
 
     /**
      * 测试空网格
